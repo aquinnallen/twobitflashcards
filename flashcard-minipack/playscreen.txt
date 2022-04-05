@@ -1,0 +1,22 @@
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+           *  *
+          _|__|_         eeeee  e     eeee eeee eeeee   eeeee  e     eeeee eeeee eeeee 
+         /__==__\        8   8  8     8    8    8   8   8   8  8     8  88 8  88 8   8
+    ____[\`-..-'/]____   8   8  8     8    8    8   8   8   8  8     8  88 8  88 8   8
+   /\ #\ \______/ /# /\  8eee8e 8e    8eee 8eee 8eee8   8eee8e 8e    8   8 8   8 8eee8 
+  /  \# \_.----._/ #/  \ 88   8 88    88   88   88      88   8 88    8   8 8   8 88
+ /   /|\  | 10 |  /|\   \88eee8 88eee 88ee 88ee 88      88eee8 88eee 8eee8 8eee8 88 
+/___/ | | |    | | | \___\
+|  |  | | |-==-| | |  |  |         INSTRUCTIONS:
+|__|  \_| |_##_| |_/  |__|          The robot will ask you for conversions between
+//\\  <\ _///\\\_ />  //\\          binary and integer values. All binary values must
+\||/  |\////  \\\\/|  \||/          be formatted as two-word bytes with a space,like
+      |---|    |---|                so: 1011 1001. When you reach the target score you
+      |---|    |---|                will receive your big reward!
+      |___|    |___|
+      /   \    /   \
+     |_____|  |_____|
+     |HHHHH|  |HHHHH|
+_______________________________________________________________________________________
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+    

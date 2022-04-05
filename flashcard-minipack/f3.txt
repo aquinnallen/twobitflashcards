@@ -1,0 +1,42 @@
+ttftfffttttttttttfffffLftfftttttttttt111tttt1111111tttt111111ttttt11111tttttttttttttttttttt11111111t
+ttfttttttttttttttfffLLLftffffffffftttttt111111111ttfffftt1tt1111111111111111ttttttftttttttt1111111tt
+ttftttttttttttttffffLftttfffffffLLLft1tttttft111tfftttfttttttttt111111ttttttfffftffffttttttt11111tt1
+ttttttttttttttttfffLfttffffffLLffffttttttttttt1ttti;;;;::;i1tttt111111tffffffffftttfffffttt11111ttt1
+tttttttttttfffffttffftffffffffffttfftttttt1ttt111i,,,,,,,,,;11111t1111111tffffLLffttfLfft111111ttttt
+ttttttttttffLLLLfttttffLLLfftttttfLftttttttffft1i::,,,,,,,,,:1t11t111tt1111ttffffftttftt1tt1111ttttt
+ttttttttffLLLLLLLffttfLLLfttfLfftfLLtttttfffffti:;;iiiiiiii::1tt11111tftt1111ttffffttt11tffft11ttttt
+tttttttfffLLLLLLLLLftffftttffLffftfftttttffffft::;;iii1i111i:1ttt1111ttt1tttt11tffLfttttfffffftttttt
+tttttttffLLLLLLLLLfttttffftffLfftfftttttfffffft;;;;;;;iiiiii;tttt11111111ttftttttttt11tffffffffffttt
+tttfftfffLLLLLLLLLfttfftfLfffffffLLftttttfffft1ii;;;;;iiiiiitfttt11111ttt1ttt11tttt11ttfffffLLfLfttt
+ttfLLfffffLLLLLLLfftfLLftfffLLffLLLftttttttfftiii;;i;;ii111itfft111111tfft11t11tt1tttttfffLLLLLLLfff
+tfffffttftfLLLffttttffffftfLLLLfLLLftttft111tt1iii;;;;iiiii1tt111tt111tffttfftt11tfftttffLLLLLLLLfff
+ttttfttffttffftttttttttttttfLLLffLLftttt1tttt11t1i;;;iiii1111t11111111tffttffftttttttt1ttfLLLfffffff
+ttfLffffffftttfffffffffttftttfLfffLftttttfffft11i;;;;iiii111tfttt11111ttt1fffttt1ttt1tttttfLLffftttt
+ttffffffffftttfffffffffttfftttfttttttttffft11111i;;;;;iii1tt11tttt1111t111ffttffttfffffLLfttttfLffff
+ttffffffffttttffffffffttttttttttffftt11ttt1111t1i;;;iii1i1itt11ttt111111t11t1ttft1ttffffLLftttfLLLLL
+tttffffffffttfffffffftttttt1111tffftttt11i;::i1iii;;;iii1i,:;i11t11111tttt1111tt11ttffffLfftttffLLLf
+ttttttttfffttfffttttttttffttt11ttft1ii;:,....;i;;;ii;;i1t:,...,:;i1111tttt111ttt1111tttffffftfLLLLLf
+tfttttttttttttttttttttfffftttt11t1:,,........ii:;;iii1tt1,,,......,,;i1tt11111ttttt11111ttfftffffftt
+tfttfffffttttttfffft1tffffttfft11;,..........:;::;ii11t1:,,,...,,:,...,it11tt11tffffttttttt1ttttffft
+ttttfffffftttfffffft11tfffttfttt1,....,,......,:;;;;;;i,.......:iii;;,.,1t1ttt1tffftttttfftt11tfffff
+1tttffffftt1ttfffft1111tfttft11ti,.............;i;;;;;:........:iiiii:..it11tt1tfftt1tfffffft1fLffLf
+tttttffttttt11tttt1tttt1tttt1tt;,..............i1;;;;;,........,;iii;,..it111t11ttttttttfftt111fffLf
+tfftttttttfftt1111ttfft11111tft:...............;i;;;;:,.........:;ii:..,ittt111111tfftttttt1tt1tffft
+ttttttttttttttt11ttttttt11ttff1,...............,::::::......... ,;ii:...itttt111ttffffft1tttfttttttt
+tfffttttffftttt11ttttttt111tft;,...........  ..,:;:::,...........,:;:...;ttttt11ttfffffttttttttffttf
+tfffttttfffffft11ttttttf11111;:,..... .....,:::::::::...............,...:1ttt1111fffffffttfffffffttf
+tfffttttfffffft11ttttttt11ti,,...........,:;i;;;:::::..................,.:tt11111tffffffttfffffffttf
+tffftttttttfff111ttttttt111,.,,,,...,,..,;;;;;i;:,::,....................,;i1t111tffffLfttfffftffttt
+tttttttttttttt111ttttttt11t:.......,....,:;;;;;:::,:,.......................:1t11tfffffftttffttffttt
+ttttt11ttttttt11tttttttt11t1,............,,,...,::::.........................:111ttttttt11ttttttfttt
+ttttt1tttttttt11ttttttfft1t1:,............  .. ,:::,........................,i111ttttttt11ttttttfttt
+1tttt1ttfttttt11tfftttfftttttt1;::,,::.........,:,,,........................i1111ttttttt111tttttfttt
+1ttt11tttttttt11tttttttttttttttttt111i.........,::,,.................   . .;t11111ttt1tt111ttttttt1t
+11t111tttt1tt111111111tttttttttttt111i,........,:,,...................,..,itttt111111111111111111111
+1111111111111111111111tttttttttttt111i,....... ,:....................i111ttttttt11111111111111111111
+1111111111111111111111ttttttttttt1111i,....... ,:,::,................,i1t11tttttt1t11111111111111111
+111111111111111111111111tttttttt11111i,........,::;:,..................;1ttttttt11111111111111111111
+1111111111111111111111111tttt11111111i........ ,,:::,..................,1ttttttttttt1111111tt1t11111
+1111111111111111111111111111111111111i,........,,:::,...................it111ttttt11t11111ttttt11111
+111111111111111111111111111111111111t1,........,,,:::,..................,1t1ttttttt1tttt11ttttt11111
+11111111111111111111111111111111111111,........,,,;;::,..................i111ttttttttttttttttttt1111
