@@ -348,12 +348,24 @@ public class Main {
 			while (!intRec) {    	
 				try {
 					printer.Print("twobit.txt");
-					System.out.println("\nTell me, "+uName+". What is your favorite positive integer number?\n\n");
+					System.out.println("\nTell me, "+uName+". What is your favorite counting number? (1-9 are counting numbers) \n\n");
 					String response = scan.nextLine();
 					favNumInt = Integer.parseInt(response);
-					if (favNumInt<1) {
-					favNumInt = Math.abs(favNumInt);
-					System.out.println("That's a negative number.. But let's just take a positive approach to it!\n\n*initializing absolution of value*\n\n");
+					if (favNumInt>10) {
+						favNumInt = favNumInt%10;
+						System.out.println("That's not a counting number.. But let's just take a modular approach to it!\n\n*initializing modulation of value*\n\n");
+					}
+					if (favNumInt<0) {
+						favNumInt = Math.abs(favNumInt);
+						System.out.println("That's a negative number.. But let's just take a positive approach to it!\n\n*initializing absolution of value*\n\n");
+					}
+					if (favNumInt==0) {
+						static Random locRnd = new Random();
+						favNumInt = locRnd.nextInt()%10;
+						if(favNumInt == 0) {
+							favNumInt = 2;
+						}
+						System.out.println("That's zero! Also my favorite number.. But we need a counting number..\n\n*choosing random number*\n\n");
 					}
 					String favNumBin = Integer.toBinaryString(favNumInt);
 					String dummy = favNumBin;
